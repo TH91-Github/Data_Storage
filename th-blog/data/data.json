@@ -1,0 +1,34 @@
+{
+  "routerData": [
+    { 
+      "index": true,
+      "element": "<ProfileTemplate />"
+    },
+    {
+      "title":"Guide",
+      "path":"guide",
+      "element": "<GuideTemplate />"
+    },
+    {
+      "title":"Profile",
+      "path":"profile",
+      "element": "<ProfileTemplate />"
+    },
+    {
+      "title":"Record",
+      "path":"/record",
+      "element": "<RecordTemplate />",
+      "children":[
+        "...RecordRouter"
+      ]
+    },
+    {
+      "title":"Site",
+      "path":"site",
+      "element": "<SiteTemplate />",
+      "children":[
+        "...IpartnersRouter"
+      ]
+    }
+  ]
+}
