@@ -30,5 +30,10 @@
         "...IpartnersRouter"
       ]
     }
+  ],
+  "record" : [
+    {
+      "id":1
+    }
   ]
 }
