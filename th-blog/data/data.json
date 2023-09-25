@@ -1,33 +1,57 @@
 {
-  "routerData": [
-    { 
-      "index": true,
-      "element": "<ProfileTemplate />"
-    },
+  "Profile" : [
     {
-      "title":"Guide",
-      "path":"guide",
-      "element": "<GuideTemplate />"
-    },
-    {
-      "title":"Profile",
-      "path":"profile",
-      "element": "<ProfileTemplate />"
-    },
-    {
-      "title":"Record",
-      "path":"/record",
-      "element": "<RecordTemplate />",
-      "children":[
-        "...RecordRouter"
-      ]
-    },
-    {
-      "title":"Site",
-      "path":"site",
-      "element": "<SiteTemplate />",
-      "children":[
-        "...IpartnersRouter"
+      "id": 1,
+      "name": "김태훈",
+      "phone":"01064768035",
+      "email": "je031@naver.com",
+      "sns":[
+        {
+          "velog":"https://velog.io/@th_velog",
+          "git":"https://github.com/TH91-Github/react-record",
+          "naver":"https://blog.naver.com/k__taehoon__"
+        }
+      ],
+      "profileInfo": [
+        {
+          "id":1,
+          "title":"ABOUT",
+          "desc":[
+            "과거엔 퍼블리셔, 현재와 미래에는 프론트엔드로 발전하고 싶은 김태훈입니다.",
+            "수동적인 개발자가 아닌 주도적으로 문제해결을 하고 최고의 결과물을 위해 끊임없이 고민하는 개발자가 되려고 합니다. 😁"
+          ]
+        },
+        {
+          "id":2,
+          "title":"SKILS",
+          "lists":[
+            {
+              "category":"React",
+              "percent":35,
+              "desc":[
+                "React 프로젝트는 진행을 하지 못하였습니다.",
+                "React 중심으로 스터디 및 공부를 하며 성장중에 있습니다.",
+                "component, styled component, store, router, fetch, axios Hook 등 Velog를 통해 처음부터 정리하며 기록하고 있습니다."
+              ]
+            },
+            {
+              "category":"Vue",
+              "percent":25,
+              "desc":[
+                "현재 Vue2 프로젝트를 진행 중이며, Vue3는 개인 공부를 통해 경험을 했습니다.",
+                "axios, store, router, swiper, component, composition api 등",
+                "TodoList 및 개인작업을 통해 Vue3 진행중입니다."
+              ]
+            },
+            {
+              "category":"JavaScript",
+              "percent":50,
+              "desc":[
+                "여러 프로젝트 진행 중 JavaScript 보다 Jquery를 중심으로 사용하여 Jquery 보다는 다소 기술력이 부족하지만 일반적인 사이트 구현에 있어 어려움 없이 활용 가능합니다."
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
