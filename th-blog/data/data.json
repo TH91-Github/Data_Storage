@@ -1,18 +1,21 @@
-{
+{ 
+  "Guide":[
+    {
+      "id":1
+    }
+  ],
   "Profile" : [
     {
       "id": 1,
       "name": "김태훈",
       "phone":"01064768035",
       "email": "je031@naver.com",
-      "sns":[
-        {
-          "velog":"https://velog.io/@th_velog",
-          "git":"https://github.com/TH91-Github/react-record",
-          "naver":"https://blog.naver.com/k__taehoon__"
-        }
-      ],
-      "profileInfo": [
+      "sns":{
+        "velog":"https://velog.io/@th_velog",
+        "git":"https://github.com/TH91-Github/react-record",
+        "naver":"https://blog.naver.com/k__taehoon__"
+      },
+      "ProfileInfo": [
         {
           "id":1,
           "title":"ABOUT",
@@ -237,7 +240,16 @@
           ]
         }
       ]
-
+    }
+  ],
+  "Record":[
+    {
+      "id":1
+    }
+  ],
+  "Site":[
+    {
+      "id":1
     }
   ]
 }
