@@ -10,11 +10,20 @@
       "name": "김태훈",
       "phone":"01064768035",
       "email": "je031@naver.com",
-      "sns":{
-        "velog":"https://velog.io/@th_velog",
-        "git":"https://github.com/TH91-Github/react-record",
-        "naver":"https://blog.naver.com/k__taehoon__"
-      },
+      "sns":[
+        {
+          "title":"velog",
+          "url":"https://velog.io/@th_velog"
+        },
+        {
+          "title":"git",
+          "url":"https://github.com/TH91-Github/react-record"
+        },
+        {
+          "title":"naver",
+          "url":"https://blog.naver.com/k__taehoon__"
+        }
+      ],
       "ProfileInfo": [
         {
           "id":1,
