@@ -12,15 +12,15 @@
       "email": "je031@naver.com",
       "sns":[
         {
-          "title":"velog",
+          "title":"Velog",
           "url":"https://velog.io/@th_velog"
         },
         {
-          "title":"git",
+          "title":"Git",
           "url":"https://github.com/TH91-Github/react-record"
         },
         {
-          "title":"naver",
+          "title":"Naver",
           "url":"https://blog.naver.com/k__taehoon__"
         }
       ],
