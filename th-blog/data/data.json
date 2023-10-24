@@ -221,8 +221,8 @@
             "start":"2023.07",
             "end":"진행중"
           },
-          "totalPeople":2,
-          "participation":50,
+          "totalPeople":3,
+          "participation":40,
           "desc":[
             "AEM 사이트와 Vue 사이트 운영 업무",
             "Vue로 진행하는 첫 프로젝트로 현재 프로젝트를 바탕으로 구조 파악 및 경험 쌓기에 도움이 되고 있습니다."
