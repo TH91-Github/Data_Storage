@@ -38,7 +38,7 @@
         {
           "category":"react",
           "title":"React",
-          "percent":35,
+          "percent":45,
           "desc":[
             "React 프로젝트는 진행을 하지 못하였습니다.",
             "React 중심으로 스터디 및 공부를 하며 습득하고 있습니다",
@@ -48,7 +48,7 @@
         {
           "category":"vue",
           "title":"Vue",
-          "percent":30,
+          "percent":45,
           "desc":[
             "현재 Vue2 프로젝트를 진행 중이며, Vue3는 개인 공부를 통해 경험을 했습니다.",
             "axios, store, router, swiper, component, composition api 등",
@@ -58,7 +58,7 @@
         {
           "category":"javascript",
           "title":"JavaScript",
-          "percent":70,
+          "percent":75,
           "desc":[
             "여러 프로젝트 진행 중 JavaScript 보다 Jquery를 중심으로 사용하여 Jquery 보다는 다소 기술력이 부족하지만 일반적인 사이트 구현에 있어 어려움 없이 활용 가능합니다."
           ]
@@ -66,7 +66,7 @@
         {
           "category":"jquery",
           "title":"Jquery",
-          "percent":75,
+          "percent":80,
           "desc":[
             "현재 맡고 있는 프로젝트 전까지 Jquery만 사용을 하여 Jquery를 통한 기능 구현 및 이해는 자신이 있습니다.",
             "Jquery를 사용이 줄어들고 있기에 현재는 Jquery 더 이상 사용을 하지 않고 바닐라 코딩을 하고 있습니다."
