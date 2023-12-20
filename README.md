@@ -4,5 +4,5 @@
 # json 보관함
 
 
-## react vue data 공통 사용
+공통 사용
  
