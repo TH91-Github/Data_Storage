@@ -1,0 +1,221 @@
+{ 
+  "Profile" : {
+    "info":{
+      "id": 1,
+      "name": "김태훈",
+      "phone":"01064768035",
+      "email": "je031@naver.com",
+      "sns":[
+        {
+          "title":"Velog",
+          "url":"https://velog.io/@th_velog"
+        },
+        {
+          "title":"Git",
+          "url":["https://github.com/TH91-Github","https://github.com/TH91-Github/react-record","https://github.com/TH91-Github/portfolio"]
+        },
+        {
+          "title":"Naver",
+          "url":"https://blog.naver.com/k__taehoon__"
+        }
+      ]
+    },
+    "about": {
+      "title":"ABOUT",
+      "desc":["안녕하세요.","김태훈입니다.", "과거엔 퍼블리셔, 현재와 미래에는<br /> 프론트엔드로 진행중이며","수동적인 개발자가 아닌 주도적으로", "문제해결을 하고 최고의 결과물을 위해 끊임없이","고민하는 개발자가 되려고 합니다.","😁"]
+    },
+    "skils":{
+      "title":"SKILLS",
+      "lists":[
+        {
+          "title":"HTML",
+          "desc":["웹 표준에 맞게 구조 및 작성 가능하고 상황에 맞게 태그 활용할 수 있습니다.","컴포넌트 작성에 맞게 좀 더 재사용 가능하도록 마크업을 하기 위해 계속 고민하고 좀 더 나은 방향을 찾고 있습니다.","class 이름을 의미있게 작성하기 위해 노력하며 BEM(Block Element Modifier)방법론에 이해 및 작성 가능합니다."]
+        },
+        {
+          "title":"CSS",
+          "desc":["자신 있게 사용 가능하며 프로젝트 작업 시 문제없이 가능합니다.","flex, grid, animation, transform 이해 및 활용 가능합니다."]
+        },
+        {
+          "title":"SCSS",
+          "desc":["프로젝트 진행 중 scss를 경험하였습니다.","프로젝트, 스터디에서 React, Vue를 진행하며 꾸준히 사용하고 있습니다.","변수, Mixin, function, @content, :root 등 이해 및 사용 가능합니다."]
+        },
+        {
+          "title":"JavaScript",
+          "desc":["JavaScript 이해를 하고 경우에 맞게 사용을 하고 있습니다.", "100% 기억하고 있지 않지만 사용 방법, 키워드를 알고 구글링을 통해 문제 해결 및 개발 가능합니다.","부족한 부분 또는 새로운 메소드, 문법에 대해 메모하고 기록하면서 예제를 만들어 습득하고 있습니다."]
+        },
+        {
+          "title":"Jquery",
+          "desc":["업(業)에 진입 전 교육과정에서 JavaScript 보다 Jquery를 먼저 배우게 되었습니다.","Jquery로 많은 프로젝트를 진행하며 쌓은 경험으로 다양하게 업무를 해결할 수 있습니다.","현재는 Jquery를 지양하고 있고 순수 JavaScript만 사용을 하고 있습니다."]
+        },
+        {
+          "title":"VUE",
+          "desc":["Vue 문법을 통해 마크업 및 props, emit, 부모 자식간 관계, 렌더링 등 이해를 하고 있습니다.","생애주기를 이해하고 있고 component 활용 및 개발, computed, methods 등 운영 업무에 필요한 지식 및 활용할 수 있습니다.", "Vue2 프로젝트로 진행을 하고 있고 스터디를 통해 Vue3-Composition API로 컴포넌트 로직을 구성할 수 있습니다."]
+        },
+        {
+          "title":"React",
+          "desc":["React 프로젝트는 진행을 하지 못하였고 매주 스터디를 통해 계속 발전 및 습득중에 있습니다.","component, styled component, store, router, fetch, axios Hook 등 Velog를 통해 처음부터 정리하며 기록하고 있습니다.","포트폴리오, 개인 블로그 개발 등 다양하게 React로 여러번 복습을 하면서 나의 기술로 만들고 있습니다.","프로젝트 진행 시 컴포넌트 단위 개발 기능을 할 수 있지만 최적화 및 고도화에는 아직 어려움이 있습니다.","JavaScript와 React를 메인 기술로 생각을 하고 있기에 고도화 및 최적화, 부족한 기술을 계속 복습, 연구하여 발전 목표를 가지고 있습니다."]
+        },
+        {
+          "title":"Git",
+          "desc":["Git 커밋, 푸쉬, 브랜치, 머지, 수정 등 경험하고 이해하고 있습니다.","GitHhub: 개인 프로젝트, 스터디를 진행을 하며 접하였고 계속 진행 중입니다.","GitLab: 프로젝트 진행하면서 사용하게 되었고 협업을 하며 충돌 해결, 업무 진행 브랜치, 이슈등록, 머지 등 다양하게 경험하고 있습니다."]
+        },
+        {
+          "title":"웹접근성",
+          "desc":["진행한 프로젝트에서 대부분 웹접근성 인증 마크를 보유하고 있습니다.","웹접근성에 대해 이해하고 세미나 참여 경험이 있습니다.","웹접근성 심사 결과에 따라 잘못된 부분을 이해하고 해결할 수 있습니다."]
+        }
+      ]
+    },
+    "project":{
+      "title":"Project",
+      "lists":[
+        {
+          "title":"🎈현대카드 회사소개 (구축)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2016.08",
+            "end":"2016.10"
+          },
+          "totalPeople":2,
+          "participation":25,
+          "desc":[
+            "사이트 구축 보조 역할",
+            "디자인 시안 및 가이드라인 따라 페이지 코딩",
+            "전체 사이트 수정 진행 및 마무리 작업을 진행하였습니다."
+          ],
+          "skils":["HTML","CSS","Jquery"]
+        },
+        {
+          "title":"🎈신세계 DF (면세점) (운영)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2016.11",
+            "end":"2017.02"
+          },
+          "totalPeople":3,
+          "participation":30,
+          "desc":[
+            "신세계DF 사이트 전체 모니터링 및 검수",
+            "UI, 버튼 확인 및 오류 및 결제 테스트 - 오류(개발 전달)",
+            "프로모션 페이지 제작 및 Jquery로 간단한 게임 제작",
+            "사이트 내 결제가 가능하여, 결제 관련 오류가 가장 큰 이슈였고 그러다보니 업무 시작은 전체 검수로 시작을 했습니다.",
+            "그만큼 검수를 통해 동작/오류 등 조기에 발견 수정을 하여 사이트 안정화의 중요성을 깨닫게 되는 프로젝트였습니다."
+          ],
+          "skils":["HTML","CSS","JavaScript","Jquery"]
+        },
+        {
+          "title":"🎈현대자동차 그룹 (운영)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2017.03",
+            "end":"2018.02"
+          },
+          "totalPeople":3,
+          "participation":35,
+          "desc":[
+            "국문, 영문 등 여러 사이트를 운영",
+            "차량 이벤트, 소개 페이지 건 별로 하드코딩 및 기능 구현",
+            "운영 유지 보수 및 레터",
+            "사이트 내 결제가 가능하여, 결제 관련 오류가 가장 큰 이슈였고 그러다보니 업무 시작은 전체 검수로 시작을 했습니다.",
+            "리뉴얼, 웹 접근성 및 사이트 별 반응형, 적응형 작업"
+          ],
+          "skils":["HTML","CSS","JavaScript","Jquery"]
+        },
+        {
+          "title":"🎈SK브로드밴드(운영)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2018.03",
+            "end":"2021.05"
+          },
+          "totalPeople":3,
+          "participation":60,
+          "desc":[
+            "사이트 운영 및 리뉴얼, 매달 프로모션 이벤트 진행",
+            "Canvas, animation, transition, transform 효과",
+            "PL 3번 팀원 총 2번 교체로 인한 PL 업무 대행",
+            "가장 오래 맡은 프로젝트로 해당 프로젝트에 대해 히스토리를 가장 많이 알게 되었고 고객사의 업무 요청이 심하여 PL, 팀원 잦은 퇴사로 직급이 낮은 상태에서 PL 업무 대행하게 되어 전체적인 업무 흐름 및 다른 팀들과 커뮤니케이션으로 힘들지만 경험을 많이 쌓게 된 프로젝트였습니다."
+          ],
+          "skils":["HTML","CSS","JavaScript","Jquery","SVN","Canvas"]
+        },
+        {
+          "title":"🎈소니스토어 (리뉴얼)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2021.06",
+            "end":"2021.11"
+          },
+          "totalPeople":3,
+          "participation":45,
+          "desc":[
+            "기존 사이트 새롭게 리뉴얼 : 파견",
+            "리뉴얼 진행 시 vue 또는 React로 리뉴얼 하기로 하였으나 하드코딩으로 변경",
+            "하드코딩으로 작업으로 작업을 진행하여 큰 경험을 쌓지는 못하였지만 팀원들과 디자인 가이드 구축 후 가이드를 바탕으로 기획, 디자인과 커뮤니케이션을 하였고 작업 시 가이드 라인의 중요성을 느끼게 된 프로젝트였습니다."
+          ],
+          "skils":["HTML","CSS","SCSS","JavaScript","Jquery","GitLab","Zeplin"]
+        },
+        {
+          "title":"🎈제네시스(운영)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2021.11",
+            "end":"2023.06"
+          },
+          "totalPeople":2,
+          "participation":50,
+          "desc":[
+            "AEM 및 컴포넌트 개발에 맞게 코딩 진행",
+            "반응형, 웹 접근성, 기능별 모듈화",
+            "첫 AEM, 컴포넌트화 프로젝트로 가이드에 맞게 완성된 컴포넌트를 통해 AEM으로 재활용하여 보다 편리하게 운영을 하였고, 재활용에 최적화할 수 있게 컴포넌트 구상 및 가독성 좋은 컴포넌트의 중요성을 배우게 되었습니다."
+          ],
+          "skils":["HTML","CSS","SCSS","JavaScript","Jquery","GitLab","AEM"]
+        },
+        {
+          "title":"🎈현대닷컴(운영)",
+          "company":"Ipartners",
+          "date":{
+            "start":"2023.07",
+            "end":"진행중"
+          },
+          "totalPeople":3,
+          "participation":40,
+          "desc":[
+            "AEM 사이트와 Vue 사이트 운영 업무",
+            "Vue로 진행하는 첫 프로젝트로 현재 프로젝트를 바탕으로 구조 파악 및 경험 쌓기에 도움이 되고 있습니다."
+          ],
+          "skils":["HTML","CSS","SCSS","JavaScript","Vue","GitLab","AEM"]
+        }
+      ]
+    },
+    "plan":{
+      "title":"PLAN",
+      "lists":[
+        {
+          "title":"목표",
+          "desc":[
+            "velog를 통해 복습을 하며, 기술 정리",
+            "github 꾸준한 기록",
+            "현재 포트폴리오 정리 되지 않았지만, 계속된 수정을 통해 가이드 및 완성도 높게 수정 진행.",
+            "전체적으로 안정기를 찾은 후 naver 블로그를 통해 2차 복습 진행"
+          ]
+        },
+        {
+          "title":"React 중심적 기술 향상",
+          "desc":[
+            "React, Vue 프론트엔드에 필수 요소를 능숙하게 활용하기 위한 공부 및 발전",
+            "2024년 TypeScript 시작"
+          ]
+        }
+      ]
+    }
+  },
+  "Record":[
+    {
+      "id":1
+    }
+  ],
+  "Site":[
+    {
+      "id":1
+    }
+  ]
+}
